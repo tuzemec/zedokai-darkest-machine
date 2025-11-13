@@ -1,7 +1,7 @@
 id = "zedokai-darkest-machine"
 name = "Zedokai Darkest Machine"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Stamen Georgiev <tuzemec@gmail.com>"]
 repository = "https://github.com/tuzemec/zedokai-darkest-machine"
-description = "A theme for Zed, based Zedokai Filter Machine"
+description = "A theme for Zed, based on Zedokai Filter Machine"

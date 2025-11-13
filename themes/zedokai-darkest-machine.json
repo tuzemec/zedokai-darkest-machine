@@ -14,7 +14,7 @@
         "border.focused": "#6b7678",
         "border.selected": "#161b1e",
         "border.transparent": "#161b1e",
-        "border.variant": "#171d20",
+        "border.variant": "#0F1214",
         "conflict": "#ffb270",
         "created": "#a2e57b",
         "deleted": "#ff6d7e",
@@ -48,7 +48,7 @@
         "info.border": "#171d20",
         "link_text.hover": "#f2fffc",
         "modified": "#ffb270",
-        "pane_group.border": "#171d20",
+        "pane_group.border": "#0F1214",
         "panel.background": "#111417",
         "panel.focused_border": "#474B4F",
         "players": [
