@@ -7,6 +7,16 @@
       "name": "zedokai-darkest-machine",
       "appearance": "dark",
       "style": {
+        "vim.normal.background": "#474B4F",
+        "vim.insert.background": "#206A46",
+        "vim.visual.background": "#3151A3",
+        "vim.visual_line.background": "#3178A3",
+        "vim.visual_block.background": "#6C34F0",
+        "vim.replace.background": "#E5484D",
+
+        "vim.helix_normal.background": "#474B4F",
+        "vim.helix_select.background": "#3151A3",
+
         "background": "#191F23",
         "background.appearance": "opaque",
         "border": "#0F1214",
@@ -23,7 +33,7 @@
         "editor.active_line_number": "#f2fffc",
         "editor.active_wrap_guide": "#161b1e",
         "editor.background": "#171B1F",
-        "editor.document_highlight.read_background": "#3d474c",
+        "editor.document_highlight.read_background": "#49555B",
         "editor.foreground": "#f2fffc",
         "editor.gutter.background": "#171B1F",
         "editor.line_number": "#545f62",

@@ -1,6 +1,6 @@
 id = "zedokai-darkest-machine"
 name = "Zedokai Darkest Machine"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
 authors = ["Stamen Georgiev <tuzemec@gmail.com>"]
 repository = "https://github.com/tuzemec/zedokai-darkest-machine"
